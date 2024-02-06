@@ -1,0 +1,3 @@
+﻿  Snowman.cpp
+D:\c++\Snowman\Snowman\Snowman.cpp(160,98): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snowman.vcxproj -> D:\c++\Snowman\x64\Debug\Snowman.exe
